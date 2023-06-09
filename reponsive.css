@@ -33,3 +33,9 @@
         max-height: 55%;
     }
 }
+
+@media screen and (max-width:400px){
+    .Hacker-man h1 {
+        font-size: 1.5rem;
+    }
+}
